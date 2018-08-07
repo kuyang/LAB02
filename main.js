@@ -23,7 +23,9 @@
         //section 2 */
        
 // Creating a function to initiate the program       
- 
+
+//testing
+
 function movieGame(){
             
     let myName = prompt('What\'s your name?');
