@@ -43,6 +43,7 @@ if (myMovie === true) {
     } else {
         alert("Awwww that sucks that you didn't like the movie " + myWhatMovie + " .")
     }    
+  
     
 } else {
     alert("I guess " + myName + "you should check out some new movies.")
